@@ -1,0 +1,22 @@
+.formstart {
+    border: 2px solid black;
+    width: 20%;
+    height: 50%;
+    margin-left: 40%;
+    margin-bottom: auto;
+    background-image:url(./images/borderinside.jpeg);
+    background-size: contain;
+    color: white;
+    
+
+}
+
+h1 {
+    text-align: center;
+}
+
+body{
+    background-image:url(./images/giffeed1.gif);
+    background-size:contain;
+
+}
